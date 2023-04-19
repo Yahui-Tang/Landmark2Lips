@@ -1,2 +1,5 @@
 # Landmark2Lips
-Trainin
+Dataset
+
+Training
+bash train.sh
